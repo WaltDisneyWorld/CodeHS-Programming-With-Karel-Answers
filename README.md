@@ -2,6 +2,7 @@
 You may not find the most effecient solutions here, but I assure you, they work. Note that these answers are specifically for the Video Game Design course, in JavaScript (aka Unit 1: Video Game Design.)
 
 Solutions for exercises:
+
   1.1.4 Your First Karel Program
   
   1.1.5 Short Stack
