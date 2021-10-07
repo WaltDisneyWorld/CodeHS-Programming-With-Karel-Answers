@@ -33,5 +33,4 @@ function makeLeftSquare() {
     turnLeft();
     
 }
-unused 
-// makeLeftSquare();
+//unused makeLeftSquare();
