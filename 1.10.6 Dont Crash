@@ -1,0 +1,30 @@
+function start()
+{
+	south();
+	west();
+	east();
+}
+
+function south()
+{
+    if(facingSouth())
+    {
+        turnRight();
+    }
+}
+
+function west()
+{
+    if(facingWest())
+    {
+        turnLeft();
+        turnLeft();
+    }
+}
+function east()
+{
+    if(facingEast())
+    {
+        move();
+    }
+}
