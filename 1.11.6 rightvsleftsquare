@@ -1,0 +1,14 @@
+function start()
+{
+    for(var i = 0; i < 4; i++)
+    {
+        move();
+        move();
+        move();
+        move();
+        move();
+        putBall();
+        turnLeft();
+    }
+}
+
