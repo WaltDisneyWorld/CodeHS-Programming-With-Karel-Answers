@@ -1,0 +1,12 @@
+// Follow the yellow ball road!
+// Karel moves until it's not on a tennis ball.
+function start() {
+    checky();
+    
+}
+
+function checky() {
+    while(ballsPresent()){
+        move();
+    }
+}
